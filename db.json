@@ -1,9 +1,6 @@
 {
   "themes": [
-    { "id": 1, "title": "HTML", "hours": "15", "deadline": "21.01.2018", "text": "Lo" },
-    { "id": 2, "title": "CSS", "hours": "11", "deadline": "26.01.2018", "text": "Lo1" },
-    { "id": 3, "title": "JavaScript", "hours": "12", "deadline": "27.01.2018", "text": "Lo2" },
-    { "id": 4, "title": "Angular", "hours": "13", "deadline": "28.01.2018", "text": "Lo3" },
-    { "id": 5, "title": "React", "hours": "14", "deadline": "29.01.2018", "text": "Lo4" }
+    { "id": 1, "title": "HTML", "hours": "15", "deadline": "2018-02-12", "text": "Lo" },
+    { "id": 2, "title": "CSS", "hours": "11", "deadline": "2018-03-02", "text": "Lo1" }
   ]
 } 
